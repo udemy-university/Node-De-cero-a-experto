@@ -1,0 +1,14 @@
+{
+  "name": "03-bases-node",
+  "version": "2.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandro Dezerio",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^14.0.0"
+  }
+}

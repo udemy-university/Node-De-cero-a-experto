@@ -1,0 +1,10 @@
+abc * 0 = NaN
+abc * 1 = NaN
+abc * 2 = NaN
+abc * 3 = NaN
+abc * 4 = NaN
+abc * 5 = NaN
+abc * 6 = NaN
+abc * 7 = NaN
+abc * 8 = NaN
+abc * 9 = NaN
