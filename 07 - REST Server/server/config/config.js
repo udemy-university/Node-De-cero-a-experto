@@ -39,3 +39,9 @@ process.env.CADUCIDAD_TOKEN = 60 * 60 * 24 * 30;
 //	================
 
 process.env.SEED = process.env.SEED || 'seed-desarrollo'; // seed en heroku configurar.
+
+//	================
+//	Google Client ID
+//	================
+
+process.env.CLIENT_ID = process.env.CLIENT_ID || '218758983312-cpnill04bcuk6rfuvd8pvcnlbn3l2p2n.apps.googleusercontent.com';
