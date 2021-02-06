@@ -69,7 +69,9 @@ class TicketControl {
     reiniciarConteo() {
 
         this.ultimo = 0;
-        this.ultimos4 = 0;
+        this.tickets = [];
+        this.ultimos4 = [];
+
         console.log("Se ha inicializado el conteo");
         this.grabarArchivo();        
     }
